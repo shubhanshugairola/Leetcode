@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -33,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shubhanshugairola/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
