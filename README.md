@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
@@ -47,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
