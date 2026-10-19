@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 ## Math
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -61,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
