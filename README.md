@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shubhanshugairola/Leetcode/tree/master/0002-add-two-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shubhanshugairola/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shubhanshugairola/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shubhanshugairola/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
