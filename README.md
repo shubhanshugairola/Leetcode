@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhanshugairola/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/shubhanshugairola/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhanshugairola/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/shubhanshugairola/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Sorting
