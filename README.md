@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/shubhanshugairola/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shubhanshugairola/Leetcode/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/shubhanshugairola/Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
