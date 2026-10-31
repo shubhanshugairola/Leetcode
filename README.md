@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shubhanshugairola/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/shubhanshugairola/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/shubhanshugairola/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shubhanshugairola/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/shubhanshugairola/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
 | ------- |
