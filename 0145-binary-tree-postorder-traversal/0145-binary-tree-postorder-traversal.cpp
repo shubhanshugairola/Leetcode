@@ -12,10 +12,9 @@
 class Solution {
 public:
 void postorder(TreeNode* root,vector<int>&ans){
-    if(root==nullptr){
+    if(root==NULL){
         return;
     }
-// Preorder Traversal (Root → Left → Right)
 
 postorder(root->left,ans);
 postorder(root->right,ans);
