@@ -1,3 +1,4 @@
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -11,18 +12,21 @@
  */
 class Solution {
 public:
-void postorder(TreeNode* root,vector<int>&ans){
-    if(root==NULL){
-        return;
-    }
+    void func(TreeNode* node,vector<int>&res){
+        if(node == NULL){
+            return;
+        }
 
-postorder(root->left,ans);
-postorder(root->right,ans);
-ans.push_back(root->val);
-}
+        func(node->left,res);
+        func(node->right,res);
+
+        res.push_back(node->val);
+
+    }
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int>ans;
-        postorder(root,ans);
-        return ans;
+        vector<int>res;
+        func(root,res);
+
+        return res;
     }
 };
