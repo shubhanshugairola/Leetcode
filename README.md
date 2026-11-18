@@ -157,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhanshugairola/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shubhanshugairola/Leetcode/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shubhanshugairola/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
