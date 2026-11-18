@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhanshugairola/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/shubhanshugairola/Leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhanshugairola/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1701-average-waiting-time](https://github.com/shubhanshugairola/Leetcode/tree/master/1701-average-waiting-time) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/shubhanshugairola/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shubhanshugairola/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/shubhanshugairola/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1701-average-waiting-time](https://github.com/shubhanshugairola/Leetcode/tree/master/1701-average-waiting-time) |
 ## Stack
 |  |
 | ------- |
