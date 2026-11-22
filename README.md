@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shubhanshugairola/Leetcode/tree/master/0002-add-two-numbers) |
+| [2544-alternating-digit-sum](https://github.com/shubhanshugairola/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shubhanshugairola/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
